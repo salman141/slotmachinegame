@@ -1,0 +1,20 @@
+.heading_style {
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Raleway";
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color: lightgrey;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+.slot_inner {
+  text-align: center;
+}
+.slotM {
+  width: 50%;
+  margin-left: 470px;
+  border-style: solid;
+}
