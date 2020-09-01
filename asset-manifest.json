@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slotmachinegame/static/css/main.bdf3130d.chunk.css",
+    "main.js": "/slotmachinegame/static/js/main.a5a32e31.chunk.js",
+    "main.js.map": "/slotmachinegame/static/js/main.a5a32e31.chunk.js.map",
+    "runtime-main.js": "/slotmachinegame/static/js/runtime-main.125eab56.js",
+    "runtime-main.js.map": "/slotmachinegame/static/js/runtime-main.125eab56.js.map",
+    "static/js/2.a852dd50.chunk.js": "/slotmachinegame/static/js/2.a852dd50.chunk.js",
+    "static/js/2.a852dd50.chunk.js.map": "/slotmachinegame/static/js/2.a852dd50.chunk.js.map",
+    "index.html": "/slotmachinegame/index.html",
+    "precache-manifest.72fe2e94e6a608f9d296ba63dd4c9397.js": "/slotmachinegame/precache-manifest.72fe2e94e6a608f9d296ba63dd4c9397.js",
+    "service-worker.js": "/slotmachinegame/service-worker.js",
+    "static/css/main.bdf3130d.chunk.css.map": "/slotmachinegame/static/css/main.bdf3130d.chunk.css.map",
+    "static/js/2.a852dd50.chunk.js.LICENSE.txt": "/slotmachinegame/static/js/2.a852dd50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.125eab56.js",
+    "static/js/2.a852dd50.chunk.js",
+    "static/css/main.bdf3130d.chunk.css",
+    "static/js/main.a5a32e31.chunk.js"
+  ]
+}
